@@ -35,6 +35,12 @@ All code, training, and implementation were done **independently by me from scra
 
 ---
 
+## Demo Video
+
+You can download and watch the demo here:  
+[Recommendation System Demo](recommendation_system_app_demo_with_KNN+NN.mkv)
+
+
 ## Project Structure
 ```
 
