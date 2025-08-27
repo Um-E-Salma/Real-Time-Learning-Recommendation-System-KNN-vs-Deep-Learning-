@@ -1,19 +1,19 @@
-```markdown
+
 # 📚 Real-Time Learning Recommendation System (KNN vs Deep Learning)
+
+---
 
 This project implements a **real-time personalized learning recommendation system** using both **K-Nearest Neighbors (KNN)** and **Deep Learning models**.  
 
 The system predicts whether a learner should be recommended **practice content** or **advanced material** based on activity data such as time of activity, platform, user answers, and actions. It also includes an interactive **Streamlit web application** for real-time recommendations.
 
 ---
+## Background
 
-## Note
+This project was originally developed in **April 2025** as a freelance project for a client.  
+I am now publishing it on GitHub for **portfolio and reference purposes**.  
 
-This project was originally developed in April 2025 for one of my freelance clients.
-I am now pushing it to my GitHub repository at a later stage for portfolio and reference purposes.
-
-All code and implementation were done by me from scratch for the client, and this public repo is meant to showcase my work.
-
+All code, training, and implementation were done **independently by me from scratch**.
 
 ---
 ## Features
@@ -39,15 +39,21 @@ All code and implementation were done by me from scratch for the client, and thi
 ```
 
 Learning-Recommendation-System/
-│── data/                        # Raw dataset files (CSV)
-│── models/                      # Trained models (KNN, Deep Learning)
-│── app.py                       # Streamlit application
-│── model\_training.py             # Model training and preprocessing script
-│── model\_comparison.csv         # Accuracy/F1 score comparison table
-│── hourly\_activity.png          # Activity by hour visualization
-│── weekly\_activity.png          # Activity by day visualization
-│── activity\_over\_time.png       # Activity timeline
-│── README.md                    # Project documentation
+│── data/ # Dataset files (CSV)
+│── models/ # Trained models (KNN, Deep Learning)
+│── visualization/ # Saved plots and charts
+│ │── activity_over_time.png
+│ │── hourly_activity.png
+│ │── weekly_activity.png
+│── app.py # Streamlit application
+│── model_training.py # Model training and preprocessing script
+│── model_comparison.csv # Accuracy/F1 score comparison table
+│── final_output_with_recommendations.csv # Final recommendations output
+│── requirements.txt # Python dependencies
+│── Project Summary for EDNet K3.docx # Project summary document
+│── student activity rec system.docx # Detailed documentation
+│── lecture.mkv # Demo/recorded lecture file
+│── README.md # Project documentation
 
 ````
 
