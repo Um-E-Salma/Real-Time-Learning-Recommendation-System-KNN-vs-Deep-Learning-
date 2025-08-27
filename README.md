@@ -34,11 +34,12 @@ All code, training, and implementation were done **independently by me from scra
   - Activity by day of the week.
 
 ---
+![Sample Image](web-based-app-for-recommendation-system-in-education-sample-img.png)
 
-## Demo Video
 
-You can download and watch the demo here:  
-[Recommendation System Demo](recommendation_system_app_demo_with_KNN+NN.mkv)
+## Demo Video  
+Watch the demo on [YouTube](https://youtu.be/FrdLzPoiOdE)
+
 
 
 ## Project Structure
